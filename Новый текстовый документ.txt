@@ -1,0 +1,5 @@
+1) Сервер
+2) Html
+3) Css , scss, minimizer, output
+4) fonts
+5) images
